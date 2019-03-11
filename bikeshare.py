@@ -19,7 +19,7 @@ def get_filters():
 
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     cities = ['chicago', 'new york', 'washington']
-    city = input("Would you like to see data for Chicago, New York, or Washington?\n").lower()
+    city = input("Please select one from Chicago, New York, or Washington to explore.\n").lower()
     while city not in cities:
         print("Please input the correct city name.")
         city = input().lower()
@@ -136,7 +136,7 @@ def trip_duration_stats(df):
     # display total travel time
     df['End Time'] = pd.to_datetime(df['End Time'])
     df['Travel Time'] = df['End Time'] - df['Start Time']
-    print('total travel time: ', df['Travel Time'].sum())
+    print('The total travel time: ', df['Travel Time'].sum())
     # display mean travel time
     print('The mean of travel time: ', df['Travel Time'].mean())
 

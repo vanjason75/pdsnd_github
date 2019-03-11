@@ -4,7 +4,7 @@ It used git template from Udacity by forking.
 README.md was also created by Udacity then modified by project's author later.
 
 ### Project Title
-Exploring Bikeshare data from three big cities
+Exploring Bikeshare data from three cities
 
 ### Description
 The project is for exploring data about BikeShare from three big cities.

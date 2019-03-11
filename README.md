@@ -7,7 +7,7 @@ README.md was also created by Udacity then modified by project's author later.
 Exploring Bikeshare data from three cities
 
 ### Description
-The project is for exploring data about BikeShare from three big cities.
+The project is for exploring BikeShare data from three big cities.
 
 ### Files used
 The project includes a python code file named bikeshare.py and three original data files with the extension name csv.

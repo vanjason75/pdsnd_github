@@ -10,7 +10,8 @@ Exploring Bikeshare data from three big cities
 The project is for exploring data about BikeShare from three big cities.
 
 ### Files used
-Include the files used
+The project includes a python code file named bikeshare.py and three original data files with the extension name csv.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+the git template of the project is forked from this link:
+https://github.com/udacity/pdsnd_github

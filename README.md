@@ -7,7 +7,7 @@ README.md was also created by Udacity then modified by project's author later.
 Exploring Bikeshare data from three big cities
 
 ### Description
-Describe what your project is about and what it does
+The project is for exploring data about BikeShare from three big cities.
 
 ### Files used
 Include the files used
